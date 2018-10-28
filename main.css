@@ -1,0 +1,62 @@
+body {
+  background-color: #000000;
+}
+.jumbotron{
+  text-align: center;
+}
+
+h1, h2{
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+.full .jumbotron {
+  background-color: #303133 !important;
+}
+
+.nos {
+  margin-left: 10px;
+}
+
+.size_container{
+  width: minmax(40%, 60%);
+}
+
+.foot_note {
+  text-align: center;
+  color: white;
+}
+
+.btm_margin {
+  margin-bottom: 20px
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+
+.well:nth-child(odd) {
+  background-color: #434444;
+  color: white;
+  padding: 15px 10px;
+  border-radius: 50px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+.well:nth-child(even) {
+  background-color: #6b6c6d;
+  color: white;
+  padding: 15px 10px;
+  border-radius: 50px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+.btn_bookmark {
+  float: right ;
+}
+
+.butt {
+  border-radius: 25px;
+}
